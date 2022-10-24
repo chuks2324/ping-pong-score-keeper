@@ -46,6 +46,12 @@ winningScore.addEventListener("change", (e) => {
   endScore = parseInt(winningScore.value);
   toReset();
   isGameOver = false;
+  document
+    .querySelector(".player-1")
+    .classList.remove("text-success", "text-danger");
+  document
+    .querySelector(".player-2")
+    .classList.remove("text-success", "text-danger");
 });
 
 const player1Scoresfunction = function () {
