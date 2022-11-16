@@ -1,6 +1,6 @@
 # ping-pong-score-keeper
 
-![This is an image](/images.jpg)
+![This is an image](images.jpg)
 
 This is code to implement a score counter for a ping pong game. 
 
