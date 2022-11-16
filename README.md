@@ -1,4 +1,7 @@
 # ping-pong-score-keeper
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 This is code to implement a score counter for a ping pong game. 
 
 ## Functional requirements
@@ -6,8 +9,7 @@ This is code to implement a score counter for a ping pong game.
 - The score increments on click until one of the players gets to the _play to_ which can be set. Its default is 3.
 - Once a player wins, all buttons are disabled except of the reset button and colour coding represents the winner and loser.
 
-######Red - winner
-######Green - Loser
+Red represents the loser and green color represents the winnner
 
 
 ## Requirement
